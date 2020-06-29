@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'DenoCart',
+  tagline: 'The tagline of DenoCart',
+  url: 'https://www.denocart.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'denocart', // Usually your GitHub org/user name.
+  projectName: 'denocart', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'DenoCart',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'DenoCart Logo',
         src: 'img/logo.svg',
       },
       links: [
